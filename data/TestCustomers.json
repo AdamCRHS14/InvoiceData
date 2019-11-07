@@ -1,0 +1,156 @@
+{
+  "customerCode": "C001",
+  "contact": {
+    "personCode": "231",
+    "firstName": " Holley",
+    "lastName": "Earl",
+    "address": {
+      "city": " Toronto",
+      "state": " ON",
+      "zipCode": " M5V 1J1",
+      "country": " Canada",
+      "street": "1 Blue Jays Way"
+    },
+    "email": [
+      "famousholl@who.com,hearl@cse.unl.edu,holleyearl@whovian.com,earl12@bbc.com"
+    ]
+  },
+  "name": "University of Nebraska-Lincoln",
+  "address": {
+    "city": "Lincoln",
+    "state": "NE",
+    "zipCode": "68508",
+    "country": "USA",
+    "street": "211 East Side"
+  }
+}
+{
+  "customerCode": "C002",
+  "contact": {
+    "personCode": "944c",
+    "firstName": "Adam",
+    "lastName": "McFarland",
+    "address": {
+      "city": "Chicago",
+      "state": "NE",
+      "zipCode": "66666",
+      "country": "USA",
+      "street": "211 East Suites Ave"
+    },
+    "email": [
+      "supermany@cubs.com,Addy_mcdaddy13@gmail.com"
+    ]
+  },
+  "name": "Daily Planet",
+  "address": {
+    "city": " Metrol",
+    "state": " NY",
+    "zipCode": " 69110",
+    "country": "USA",
+    "street": "911 E Batman Ave"
+  }
+}
+{
+  "customerCode": "C003",
+  "contact": {
+    "personCode": "306a",
+    "firstName": " Jesus",
+    "lastName": "Salazar",
+    "address": {
+      "city": "Chicago",
+      "state": "NE",
+      "zipCode": "66666",
+      "country": "USA",
+      "street": "211 East Suites Ave"
+    },
+    "email": [
+      "Batman@cubs.com,Yee_Zues14@gmail.com"
+    ]
+  },
+  "name": "Young Thug",
+  "address": {
+    "city": "Boosie",
+    "state": " CA",
+    "zipCode": "86041",
+    "country": "USA",
+    "street": "1245 Metrobooming Dr E"
+  }
+}
+{
+  "customerCode": "C004",
+  "contact": {
+    "personCode": "321f",
+    "firstName": " Brock",
+    "lastName": "Pokemon",
+    "address": {
+      "city": "Palet town",
+      "state": "KA",
+      "zipCode": "16504",
+      "country": "USA",
+      "street": "321 Brock Street"
+    },
+    "email": [
+      "N/A"
+    ]
+  },
+  "name": "The Avenegers",
+  "address": {
+    "city": " Omaha",
+    "state": "NE",
+    "zipCode": " 68117",
+    "country": "USA",
+    "street": "806 Southern Ave"
+  }
+}
+{
+  "customerCode": "C005",
+  "contact": {
+    "personCode": "bbchar",
+    "firstName": " Baylee",
+    "lastName": "Tennant",
+    "address": {
+      "city": " Omen",
+      "state": " NM",
+      "zipCode": " 58105",
+      "country": "USA",
+      "street": "666 Demon 6th Street"
+    },
+    "email": [
+      "N/A"
+    ]
+  },
+  "name": "Tapatio Inc",
+  "address": {
+    "city": "Chicago",
+    "state": "NY",
+    "zipCode": "65981",
+    "country": "USA",
+    "street": "1212 Southern Spice"
+  }
+}
+{
+  "customerCode": "C006",
+  "contact": {
+    "personCode": "321dr",
+    "firstName": " Samantha ",
+    "lastName": "Baker",
+    "address": {
+      "city": "Lincoln",
+      "state": "NE",
+      "zipCode": "68503",
+      "country": "USA",
+      "street": "Avery Hall"
+    },
+    "email": [
+      "sb@baker.com"
+    ]
+  },
+  "name": "Spaghetti Works ",
+  "address": {
+    "city": "Adele",
+    "state": "MN",
+    "zipCode": "56480",
+    "country": "USA",
+    "street": "321 Watermelon Ct"
+  }
+}

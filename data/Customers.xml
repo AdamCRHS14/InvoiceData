@@ -1,0 +1,160 @@
+<?xml version="1.0" ?>
+<customers>
+<business>
+  <customerCode>C001</customerCode>
+  <contact>
+    <personCode>231</personCode>
+    <firstName>Holley</firstName>
+    <lastName>Earl</lastName>
+    <address>
+      <street>1 Blue Jays Way</street>
+      <city>Toronto</city>
+      <state>ON</state>
+      <zip>M5V 1J1</zip>
+      <country>Canada</country>
+    </address>
+    <email>
+      <string>famousholl@who.com</string>
+      <string>hearl@cse.unl.edu</string>
+      <string>holleyearl@whovian.com</string>
+      <string>earl12@bbc.com</string>
+    </email>
+  </contact>
+  <name>University of Nebraska-Lincoln</name>
+  <address>
+    <street>259 Avery Hall</street>
+    <city>Lincoln</city>
+    <state>NE</state>
+    <zip>68588</zip>
+    <country>USA</country>
+  </address>
+</business>
+<business>
+  <customerCode>C002</customerCode>
+  <contact>
+    <personCode>944c</personCode>
+    <firstName>Sylvester</firstName>
+    <lastName>McCoy</lastName>
+    <address>
+      <street>1060 West Addison Street</street>
+      <city>Chicago</city>
+      <state>IL</state>
+      <zip>60613</zip>
+      <country>USA</country>
+    </address>
+    <email>
+      <string>smccoy@cubs.com</string>
+      <string>sylve_mccoy13@gmail.com</string>
+    </email>
+  </contact>
+  <name>Stark Industries</name>
+  <address>
+    <street>912 E Kirwin Ave</street>
+    <city>Salina</city>
+    <state>KS</state>
+    <zip>67401</zip>
+    <country>USA</country>
+  </address>
+</business>
+<residential>
+  <customerCode>C003</customerCode>
+  <contact>
+    <personCode>306a</personCode>
+    <firstName>Jon</firstName>
+    <lastName>Pertwee</lastName>
+    <address>
+      <street>123 N 1st Street</street>
+      <city>Omaha</city>
+      <state>NE</state>
+      <zip>68116</zip>
+      <country>USA</country>
+    </address>
+    <email>
+      <string>j_pertwee@gmail.com</string>
+      <string>jon@venture.com</string>
+    </email>
+  </contact>
+  <name>Tom Eddision</name>
+  <address>
+    <street>1182 James Ave N</street>
+    <city>Minneapolis</city>
+    <state>MN</state>
+    <zip>55411</zip>
+    <country>USA</country>
+  </address>
+</residential>
+<business>
+  <customerCode>C004</customerCode>
+  <contact>
+    <personCode>321f</personCode>
+    <firstName>Brock</firstName>
+    <lastName>Sampson</lastName>
+    <address>
+      <street>321 Bronx Street</street>
+      <city>New York</city>
+      <state>NY</state>
+      <zip>10004</zip>
+      <country>USA</country>
+    </address>
+    <email/>
+  </contact>
+  <name>National Soccer Administration</name>
+  <address>
+    <street>151 Easton Ave</street>
+    <city>Waterloo</city>
+    <state>IA</state>
+    <zip>50702</zip>
+    <country>USA</country>
+  </address>
+</business>
+<residential>
+  <customerCode>C005</customerCode>
+  <contact>
+    <personCode>bbchar</personCode>
+    <firstName>Kaylee</firstName>
+    <lastName>Tennant</lastName>
+    <address>
+      <street>800 West 7th Street</street>
+      <city>Albuquerque</city>
+      <state>NM</state>
+      <zip>87105</zip>
+      <country>USA</country>
+    </address>
+    <email/>
+  </contact>
+  <name>Vandelay Apartments</name>
+  <address>
+    <street>1060 West Addison</street>
+    <city>Chicago</city>
+    <state>IL</state>
+    <zip>60601</zip>
+    <country>USA</country>
+  </address>
+</residential>
+<residential>
+  <customerCode>C006</customerCode>
+  <contact>
+    <personCode>321dr</personCode>
+    <firstName>Samantha</firstName>
+    <lastName>Baker</lastName>
+    <address>
+      <street>Avery Hall</street>
+      <city>Lincoln</city>
+      <state>NE</state>
+      <zip>68503</zip>
+      <country>USA</country>
+    </address>
+    <email>
+      <string>sb@baker.com</string>
+    </email>
+  </contact>
+  <name>Mr. Smith&apos;s #1 Supply Co. Inc.</name>
+  <address>
+    <street>456 West 7th St.</street>
+    <city>Omaha</city>
+    <state>NE</state>
+    <zip>68500</zip>
+    <country>USA</country>
+  </address>
+</residential>
+</customers>

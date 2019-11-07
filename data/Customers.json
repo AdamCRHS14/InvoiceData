@@ -1,0 +1,162 @@
+{
+  "customerCode": "C001",
+  "type": "B",
+  "contact": {
+    "personCode": "231",
+    "firstName": " Holley",
+    "lastName": "Earl",
+    "address": {
+      "city": " Toronto",
+      "state": " ON",
+      "zipCode": " M5V 1J1",
+      "country": " Canada",
+      "street": "1 Blue Jays Way"
+    },
+    "email": [
+      "famousholl@who.com,hearl@cse.unl.edu,holleyearl@whovian.com,earl12@bbc.com"
+    ]
+  },
+  "name": "University of Nebraska-Lincoln",
+  "address": {
+    "city": "Lincoln",
+    "state": "NE",
+    "zipCode": "68588",
+    "country": "USA",
+    "street": "259 Avery Hall"
+  }
+}
+{
+  "customerCode": "C002",
+  "type": "B",
+  "contact": {
+    "personCode": "944c",
+    "firstName": "Sylvester",
+    "lastName": "McCoy",
+    "address": {
+      "city": "Chicago",
+      "state": "IL",
+      "zipCode": "60613",
+      "country": "USA",
+      "street": "1060 West Addison Street"
+    },
+    "email": [
+      "smccoy@cubs.com,sylve_mccoy13@gmail.com"
+    ]
+  },
+  "name": "Stark Industries",
+  "address": {
+    "city": " Salina",
+    "state": " KS",
+    "zipCode": " 67401",
+    "country": "USA",
+    "street": "912 E Kirwin Ave"
+  }
+}
+{
+  "customerCode": "C003",
+  "type": "R",
+  "contact": {
+    "personCode": "306a",
+    "firstName": " Jon",
+    "lastName": "Pertwee",
+    "address": {
+      "city": "Omaha",
+      "state": "NE",
+      "zipCode": "68116",
+      "country": "USA",
+      "street": "123 N 1st Street"
+    },
+    "email": [
+      "j_pertwee@gmail.com,jon@venture.com"
+    ]
+  },
+  "name": "Tom Eddision",
+  "address": {
+    "city": "Minneapolis",
+    "state": " MN",
+    "zipCode": "55411",
+    "country": "USA",
+    "street": "1182 James Ave N"
+  }
+}
+{
+  "customerCode": "C004",
+  "type": "B",
+  "contact": {
+    "personCode": "321f",
+    "firstName": " Brock",
+    "lastName": "Sampson",
+    "address": {
+      "city": "New York",
+      "state": "NY",
+      "zipCode": "10004",
+      "country": "USA",
+      "street": "321 Bronx Street"
+    },
+    "email": [
+      "N/A"
+    ]
+  },
+  "name": "National Soccer Administration",
+  "address": {
+    "city": " Waterloo",
+    "state": "IA",
+    "zipCode": " 50702",
+    "country": "USA",
+    "street": "151 Easton Ave"
+  }
+}
+{
+  "customerCode": "C005",
+  "type": "R",
+  "contact": {
+    "personCode": "bbchar",
+    "firstName": " Kaylee",
+    "lastName": "Tennant",
+    "address": {
+      "city": " Albuquerque",
+      "state": " NM",
+      "zipCode": " 87105",
+      "country": "USA",
+      "street": "800 West 7th Street"
+    },
+    "email": [
+      "N/A"
+    ]
+  },
+  "name": "Vandelay Apartments",
+  "address": {
+    "city": "Chicago",
+    "state": "IL",
+    "zipCode": "60601",
+    "country": "USA",
+    "street": "1060 West Addison"
+  }
+}
+{
+  "customerCode": "C006",
+  "type": "R",
+  "contact": {
+    "personCode": "321dr",
+    "firstName": " Samantha ",
+    "lastName": "Baker",
+    "address": {
+      "city": "Lincoln",
+      "state": "NE",
+      "zipCode": "68503",
+      "country": "USA",
+      "street": "Avery Hall"
+    },
+    "email": [
+      "sb@baker.com"
+    ]
+  },
+  "name": "Mr. Smith\u0027s #1 Supply Co. Inc.",
+  "address": {
+    "city": "Omaha",
+    "state": "NE",
+    "zipCode": "68500",
+    "country": "USA",
+    "street": "456 West 7th St."
+  }
+}

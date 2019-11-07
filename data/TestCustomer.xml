@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<customer>
+  <customerCode>C001</customerCode>
+  <contact>
+    <personCode>231</personCode>
+    <firstName> Holley</firstName>
+    <lastName>Earl</lastName>
+    <address>
+      <city> Toronto</city>
+      <state> ON</state>
+      <zipCode> M5V 1J1</zipCode>
+      <country> Canada</country>
+      <street>1 Blue Jays Way</street>
+    </address>
+    <email>
+      <string>famousholl@who.com,hearl@cse.unl.edu,holleyearl@whovian.com,earl12@bbc.com</string>
+    </email>
+  </contact>
+  <name>University of Nebraska-Lincoln</name>
+  <address>
+    <city>Lincoln</city>
+    <state>NE</state>
+    <zipCode>68508</zipCode>
+    <country>USA</country>
+    <street>211 East Side</street>
+  </address>
+</customer><customer>
+  <customerCode>C002</customerCode>
+  <contact>
+    <personCode>944c</personCode>
+    <firstName>Adam</firstName>
+    <lastName>McFarland</lastName>
+    <address>
+      <city>Chicago</city>
+      <state>NE</state>
+      <zipCode>66666</zipCode>
+      <country>USA</country>
+      <street>211 East Suites Ave</street>
+    </address>
+    <email>
+      <string>supermany@cubs.com,Addy_mcdaddy13@gmail.com</string>
+    </email>
+  </contact>
+  <name>Daily Planet</name>
+  <address>
+    <city> Metrol</city>
+    <state> NY</state>
+    <zipCode> 69110</zipCode>
+    <country>USA</country>
+    <street>911 E Batman Ave</street>
+  </address>
+</customer><customer>
+  <customerCode>C003</customerCode>
+  <contact>
+    <personCode>306a</personCode>
+    <firstName> Jesus</firstName>
+    <lastName>Salazar</lastName>
+    <address>
+      <city>Chicago</city>
+      <state>NE</state>
+      <zipCode>66666</zipCode>
+      <country>USA</country>
+      <street>211 East Suites Ave</street>
+    </address>
+    <email>
+      <string>Batman@cubs.com,Yee_Zues14@gmail.com</string>
+    </email>
+  </contact>
+  <name>Young Thug</name>
+  <address>
+    <city>Boosie</city>
+    <state> CA</state>
+    <zipCode>86041</zipCode>
+    <country>USA</country>
+    <street>1245 Metrobooming Dr E</street>
+  </address>
+</customer><customer>
+  <customerCode>C004</customerCode>
+  <contact>
+    <personCode>321f</personCode>
+    <firstName> Brock</firstName>
+    <lastName>Pokemon</lastName>
+    <address>
+      <city>Palet town</city>
+      <state>KA</state>
+      <zipCode>16504</zipCode>
+      <country>USA</country>
+      <street>321 Brock Street</street>
+    </address>
+    <email>
+      <string>N/A</string>
+    </email>
+  </contact>
+  <name>The Avenegers</name>
+  <address>
+    <city> Omaha</city>
+    <state>NE</state>
+    <zipCode> 68117</zipCode>
+    <country>USA</country>
+    <street>806 Southern Ave</street>
+  </address>
+</customer><customer>
+  <customerCode>C005</customerCode>
+  <contact>
+    <personCode>bbchar</personCode>
+    <firstName> Baylee</firstName>
+    <lastName>Tennant</lastName>
+    <address>
+      <city> Omen</city>
+      <state> NM</state>
+      <zipCode> 58105</zipCode>
+      <country>USA</country>
+      <street>666 Demon 6th Street</street>
+    </address>
+    <email>
+      <string>N/A</string>
+    </email>
+  </contact>
+  <name>Tapatio Inc</name>
+  <address>
+    <city>Chicago</city>
+    <state>NY</state>
+    <zipCode>65981</zipCode>
+    <country>USA</country>
+    <street>1212 Southern Spice</street>
+  </address>
+</customer><customer>
+  <customerCode>C006</customerCode>
+  <contact>
+    <personCode>321dr</personCode>
+    <firstName> Samantha </firstName>
+    <lastName>Baker</lastName>
+    <address>
+      <city>Lincoln</city>
+      <state>NE</state>
+      <zipCode>68503</zipCode>
+      <country>USA</country>
+      <street>Avery Hall</street>
+    </address>
+    <email>
+      <string>sb@baker.com</string>
+    </email>
+  </contact>
+  <name>Spaghetti Works </name>
+  <address>
+    <city>Adele</city>
+    <state>MN</state>
+    <zipCode>56480</zipCode>
+    <country>USA</country>
+    <street>321 Watermelon Ct</street>
+  </address>
+</customer>

@@ -1,0 +1,97 @@
+=================================
+INOVICE DETAIL REPORTS
+=================================
+
+---------------------------------
+Invoice: INV001
+---------------------------------
+SalesPerson: Eccleston, ChrisCustomer: Stark Industries (C002)
+(Business)
+Stark Industries
+912 E Kirwin Ave
+ Salina,  KS  67401 USA
+
+
+
+---------------------------------
+Code Item                                           SubTotal           Taxes            Fees           Total
+b29e Satellite Reciever (2 units at 2500.00/unit)    $5000.00          $350.00           $0.00
+                                                     =========================================================
+SUB_TOTALS                                          $5000.00         $350.00          $0.00         $5350.00
+FINAL TOTAL                                                                                        $5350.00
+
+
+=================================
+INOVICE DETAIL REPORTS
+=================================
+
+---------------------------------
+Invoice: INV002
+---------------------------------
+SalesPerson: Smith, MattCustomer: University of Nebraska-Lincoln (C001)
+(Business)
+University of Nebraska-Lincoln
+259 Avery Hall
+Lincoln, NE 68588 USA
+
+
+
+---------------------------------
+Code Item                                           SubTotal           Taxes            Fees           Total
+ff23 Wireless5G Router (25 units at 124.99/unit)    $3124.75          $0.00             $0.00
+3289 Turbo Upgrade-Internet (10 hours at 25.00/hours)    $156.38           $1.06             $150.00
+1239 Digital Setup Box (1 units at 200.00/unit)    $200.00           $0.00             $0.00
+                                                     =========================================================
+SUB_TOTALS                                          $8481.13         $351.06          $150.00       $8982.19
+FINAL TOTAL                                                                                        $8982.19
+
+
+=================================
+INOVICE DETAIL REPORTS
+=================================
+
+---------------------------------
+Invoice: INV003
+---------------------------------
+SalesPerson: Castro, DavidCustomer: Vandelay Apartments (C005)
+(Residential)
+Vandelay Apartments
+1060 West Addison
+Chicago, IL 60601 USA
+
+
+
+---------------------------------
+Code Item                                           SubTotal           Taxes            Fees           Total
+ff23 Wireless5G Router (10 units at 124.99/unit)    $1249.90          $0.00             $0.00
+90fa Long Distance Service (381 days at 12000.00/year)    $774526.03        $0.00             $2000.00
+                                                     =========================================================
+SUB_TOTALS                                          $784257.05       $351.06          $2150.00      $786758.11
+FINAL TOTAL                                                                                        $786758.11
+
+
+=================================
+INOVICE DETAIL REPORTS
+=================================
+
+---------------------------------
+Invoice: INV004
+---------------------------------
+SalesPerson: Castro, DavidCustomer: Stark Industries (C002)
+(Business)
+Stark Industries
+912 E Kirwin Ave
+ Salina,  KS  67401 USA
+
+
+
+---------------------------------
+Code Item                                           SubTotal           Taxes            Fees           Total
+782g Home Wifi Setup (10 hours at 150.00/hours)    $156.38           $6.38             $150.00
+3294 L2 Home Security (670 days at 35000.00/year)    $64246.58         $2730.48          $0.00
+3295 Domain registration (1016 days at 1200.00/year)    $358940.27        $141.96           $350.00
+                                                     =========================================================
+SUB_TOTALS                                          $1207600.28      $3229.88         $2650.00      $1213480.16
+FINAL TOTAL                                                                                        $1213480.16
+
+
